@@ -1,7 +1,7 @@
-baseURL: https://hugo-toha.github.io
+baseURL: www.tyleretheridge.com
 
 languageCode: en-us
-title: "John's Blog"
+title: "Tyler Etheridge"
 theme: "toha"
 
 # Manage languages
